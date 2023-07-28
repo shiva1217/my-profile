@@ -27182,23 +27182,23 @@ var _motionBackgroundJpgDefault = parcelHelpers.interopDefault(_motionBackground
 const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
- */ const description = "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+ */ const description = "I'm a Passionate and innovative professional with a diverse skill set in blockchain development, Python programming, React framework, web development,app development, design,Google cloud, algorithmic problem-solving, and a deep enthusiasm for technology. I thrive in dynamic environments where I can apply my expertise to create impactful solutions and contribute to innovative projects. With a strong foundation in blockchain, Python, React, web development, and design, combined with my proficiency in Data Structures and Algorithms (DSA), I possess the versatility to tackle complex challenges and deliver exceptional results. Constantly seeking opportunities to learn and grow, I am driven to shape the future through my passion for technology.";
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
+    "Web Dev",
+    "App Dev",
+    "UI/UX Design",
+    "GCP",
+    "Blockchain",
     "Graphic design", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
  * how you best work, or even a quote. This will help someone learn more
  * about you on a professional level.
- */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+ */ const detailOrQuote = "I am passionate about solving problems in new creative ways to drive innovation.";
 const About = ()=>{
     return /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("section", {
         className: "padding",
@@ -28759,24 +28759,24 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "10 Things To Know About Azure Static Web Apps \uD83C\uDF89",
-        description: "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-        url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i"
+        title: "Linkedin posts",
+        description: "Collection of all my posts.",
+        url: "https://www.linkedin.com/in/shivangisingh1217/recent-activity/all/"
     },
     {
-        title: "Web Development for Beginners",
-        description: "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-        url: "https://github.com/microsoft/web-dev-for-beginners"
+        title: "Github Profile",
+        description: "Collection of my projects.",
+        url: "https://github.com/shiva1217"
     },
     {
         title: "My Resume Site",
-        description: "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-        url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website"
+        description: "Created from Overleaf.",
+        url: "https://www.overleaf.com/project/646f7768526a1bcaaefaf56c"
     },
     {
-        title: "GitHub Codespaces and github.dev",
-        description: "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-        url: "https://www.youtube.com/watch?v=c3hHhRME_XI"
+        title: "Figma Files",
+        description: "Link to my Figma Files.",
+        url: "https://www.figma.com/@shivangisingh3"
     }, 
 ];
 const Portfolio = ()=>{
